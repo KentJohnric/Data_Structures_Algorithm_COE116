@@ -1,0 +1,8 @@
+admin;admin;admin;admin;nimda
+John Elasthiel Nolasco;0905213133;popo;popo;123
+sdfsdfa;asdfasdf;1212412;sadf;1241f
+21124;124124;asdfasd;asdfasdf;asdfasdf
+Charles David;09116046110;CharlesDavid@yahoo.com;cndavid;123
+Kent Sardina;09177174953;Sardzforthewin@yahoo.com;Tnek;ggwp
+Jeremy Yumol;099991234;jvmyumol@yahoo.com;jvyumol;123
+Simon Guevarra;0912312314;SymonG@yahoo.com;simon;123

@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../Pictures/Lamundi.png</file>
+    <file>../Pictures/logo.png</file>
+    <file>../Pictures/MapuaLogo.png</file>
+    <file>../Pictures/Sponsor.jpg</file>
+    <file>../Pictures/Toma4025-Tea-Tea-plant-leaf.ico</file>
+  </qresource>
+</RCC>
