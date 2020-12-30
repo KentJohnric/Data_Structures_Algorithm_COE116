@@ -1,0 +1,4 @@
+﻿  dateType.cpp
+c:\users\kent\desktop\1q1718\coe116\progexer7\date\date\datetype.cpp(6): error C2511: 'dateType::dateType(void)': overloaded member function not found in 'dateType'
+  c:\users\kent\desktop\1q1718\coe116\progexer7\date\date\datetype.h(7): note: see declaration of 'dateType'
+c:\users\kent\desktop\1q1718\coe116\progexer7\date\date\datetype.cpp(11): error C2600: 'dateType::~dateType': cannot define a compiler-generated special member function (must be declared in the class first)

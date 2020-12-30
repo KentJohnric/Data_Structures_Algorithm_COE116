@@ -1,0 +1,6 @@
+﻿  dateType.cpp
+c:\users\kent\desktop\1q1718\coe116\progexer8\date8\date8\datetype.cpp(8): warning C4101: 'numDays': unreferenced local variable
+c:\users\kent\desktop\1q1718\coe116\progexer8\date8\date8\datetype.cpp(8): warning C4101: 'passed': unreferenced local variable
+c:\users\kent\desktop\1q1718\coe116\progexer8\date8\date8\datetype.cpp(8): warning C4101: 'remain': unreferenced local variable
+  Date8.vcxproj -> C:\Users\Kent\Desktop\1Q1718\COE116\ProgExer8\Date8\Debug\Date8.exe
+  Date8.vcxproj -> C:\Users\Kent\Desktop\1Q1718\COE116\ProgExer8\Date8\Debug\Date8.pdb (Partial PDB)
